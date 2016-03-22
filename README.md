@@ -1,1 +1,1 @@
-Create Dynamic Web Project in STS 3.6
+Created Dynamic Web Project in STS 3.6
